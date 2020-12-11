@@ -6,7 +6,7 @@ DataFountain&CCF Big Data Expert Committee Algorithm Competition-Epidemic Govern
 
 Requirement: 1.Python 3.6.9
              
-             2.Torch 1.4.0
+2.Torch 1.4.0
 
 Link: https://www.datafountain.cn/competitions/424
 
@@ -16,11 +16,11 @@ Task introduction: Given epidemic-based policy data sets, user questions, and la
 
 Project introduction: 1. Use BM25+Bert to build an information retrieval document matching module to search for matching documents 
 
-                      2. Use Bert and overlapping text slicing technology for intelligent answer extraction
+2. Use Bert and overlapping text slicing technology for intelligent answer extraction
 
 Process Training Sample: python process_mrc_data.py
 
-                         python process_class_data.py
+python process_class_data.py
                          
 Training information retrieval document matching module: python train_bert_matcher.py
 
